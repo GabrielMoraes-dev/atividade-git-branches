@@ -10,3 +10,9 @@ nav a {
     color: black;
     font-weight: bold;
 }
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+}
